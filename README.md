@@ -13,15 +13,15 @@
 
 <div align="center">
     <p>
-        <a href="https://scholar.google.com/citations?user=d0E7YlcAAAAJ">Xun Liang</a><sup>1,*</sup>, 
-        <a href="https://ki-seki.github.io/">Shichao Song</a><sup>1,*</sup>, 
-        <a href="https://github.com/fan2goa1">Zifan Zheng</a><sup>2,*</sup>, <br>
+        <a href="https://scholar.google.com/citations?user=d0E7YlcAAAAJ">Xun Liang</a><sup>1*</sup>, 
+        <a href="https://ki-seki.github.io/">Shichao Song</a><sup>1*</sup>, 
+        <a href="https://github.com/fan2goa1">Zifan Zheng</a><sup>2*</sup>, <br>
         <a href="https://github.com/MarrytheToilet">Hanyu Wang</a><sup>1</sup>, 
         <a href="https://github.com/Duguce">Qingchen Yu</a><sup>2</sup>, 
         <a href="https://xkli-allen.github.io/">Xunkai Li</a><sup>3</sup>, 
         <a href="https://ronghuali.github.io/index.html">Rong-Hua Li</a><sup>3</sup>, 
         <a href="https://scholar.google.com/citations?user=GOKgLdQAAAAJ">Feiyu Xiong</a><sup>2</sup>, 
-        <a href="https://www.semanticscholar.org/author/Zhiyu-Li/2268429641">Zhiyu Li</a><sup>2,†</sup>
+        <a href="https://www.semanticscholar.org/author/Zhiyu-Li/2268429641">Zhiyu Li</a><sup>2†</sup>
     </p>
     <p>
         <sup>1</sup><a href="https://en.ruc.edu.cn/">Renmin University of China</a> <br>
@@ -73,4 +73,9 @@ Please submit an issue or a pull request with a brief description of your contri
 
 ## Paper List
 
-Progress in work. Please stay tuned.
+We provide a spreadsheet containing all the papers we reviewed: [Literature](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg?singleDoc#pBc8). A more readable table format is working in progress.
+
+## To-Do List
+
+- [ ] Create the Page.
+- [ ] Improve paper list.

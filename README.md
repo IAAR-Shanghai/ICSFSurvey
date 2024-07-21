@@ -9,6 +9,10 @@
     <a href="https://github.com/IAAR-Shanghai/ICSFSurvey">
         <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
     </a>
+    <!-- Yuque -->
+    <a href="https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg?singleDoc#pBc8">
+        <img src="https://img.shields.io/badge/Paper--List-white?style=flat&logo=googlesheets">
+    </a>
 </p>
 
 <div align="center">

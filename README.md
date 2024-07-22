@@ -2,7 +2,7 @@
 
 <p align="center">
     <!-- arxiv badges -->
-    <a href="#">
+    <a href="https://arxiv.org/abs/2407.14507">
         <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
     </a>
     <!-- Github -->
@@ -39,7 +39,7 @@
 
 ## News
 
-- **[2024/07/21]** Out paper is published on the arXiv platform: #.
+- **[2024/07/21]** Out paper is published on the arXiv platform: https://arxiv.org/abs/2407.14507.
 
 ## Introduction
 

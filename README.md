@@ -9,8 +9,12 @@
     <a href="https://github.com/IAAR-Shanghai/ICSFSurvey">
         <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
     </a>
+    <!-- HuggingFace -->
+    <a href="https://huggingface.co/papers/2407.14507">
+        <img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Page-orange?style=flat"/>
+    </a>
     <!-- Yuque -->
-    <a href="https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg?singleDoc#pBc8">
+    <a href="https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg">
         <img src="https://img.shields.io/badge/Paper--List-white?style=flat&logo=googlesheets">
     </a>
 </p>
@@ -77,7 +81,7 @@ Please submit an issue or a pull request with a brief description of your contri
 
 ## Paper List
 
-We provide a spreadsheet containing all the papers we reviewed: [Literature](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg?singleDoc#pBc8). A more readable table format is working in progress.
+We provide a spreadsheet containing all the papers we reviewed: [Literature](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg). A more readable table format is working in progress.
 
 ## To-Do List
 

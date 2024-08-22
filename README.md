@@ -43,7 +43,7 @@
 
 ## News
 
-- **[2024/07/21]** Out paper is published on the arXiv platform: https://arxiv.org/abs/2407.14507.
+- **[2024/07/21]** Our paper is published on the arXiv platform: https://arxiv.org/abs/2407.14507.
 
 ## Introduction
 

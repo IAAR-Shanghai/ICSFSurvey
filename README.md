@@ -48,7 +48,7 @@
 
 ## 🎉 Introduction
 
-Welcome to the GitHub repository for our survey paper titled *"Internal Consistency and Self-Feedback in Large Language Models: A Survey."* This repository contains all the [resources](./data/), [code](./code/), and [references](#paper-list) associated with the paper. Our goal of the survey is to provide a unified perspective on the self-evaluation and self-updating mechanisms in LLMs, encapsulated within the frameworks of Internal Consistency and Self-Feedback. 
+Welcome to the GitHub repository for our survey paper titled *"Internal Consistency and Self-Feedback in Large Language Models: A Survey."* This repository contains all the [resources](./resources/), [codes](./codes/), and [paper list](#-paper-list) associated with our survey. The survey's goal is to provide a unified perspective on the self-evaluation and self-updating mechanisms in LLMs, encapsulated within the frameworks of Internal Consistency and Self-Feedback. 
 
 ![Article Framework](figures/article_framework.jpg)
 
@@ -56,11 +56,50 @@ Welcome to the GitHub repository for our survey paper titled *"Internal Consiste
 
 Here we list the most important references cited in our survey, as well as the papers we consider worth noting.
 
-We also provide an [online version](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) and an [Excel version](./ICSFSurvey-Paper-List.xlsx) for your convenience.
+We also provide an [online version](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) and an [Excel version](./papers/ICSFSurvey-Paper-List.xlsx) for your convenience.
 
 <details><summary>Click Me to Show Table of Contents</summary>
 
-[TOC]
+- [📰 News](#-news)
+- [🎉 Introduction](#-introduction)
+- [📚 Paper List](#-paper-list)
+  - [Related Survey Papers](#related-survey-papers)
+  - [Section IV: Consistency Signal Acquisition](#section-iv-consistency-signal-acquisition)
+    - [Confidence Estimation](#confidence-estimation)
+    - [Hallucination Detection](#hallucination-detection)
+    - [Uncertainty Estimation](#uncertainty-estimation)
+    - [Verbal Critiquing](#verbal-critiquing)
+    - [Faithfulness Measurement](#faithfulness-measurement)
+    - [Consistency Estimation](#consistency-estimation)
+  - [Section V: Reasoning Elevation](#section-v-reasoning-elevation)
+    - [Reasoning Topologically](#reasoning-topologically)
+    - [Refining with Responses](#refining-with-responses)
+    - [Multi-Agent Collaboration](#multi-agent-collaboration)
+  - [Section VI: Hallucination Alleviation](#section-vi-hallucination-alleviation)
+    - [Mitigating Hallucination while Generating](#mitigating-hallucination-while-generating)
+    - [Refining the Response Iteratively](#refining-the-response-iteratively)
+    - [Activating Truthfulness](#activating-truthfulness)
+    - [Decoding Truthfully](#decoding-truthfully)
+  - [Section VII: Other Tasks](#section-vii-other-tasks)
+    - [Preference Learning](#preference-learning)
+    - [Knowledge Distillation](#knowledge-distillation)
+    - [Continuous Learning](#continuous-learning)
+    - [Data Synthesis](#data-synthesis)
+    - [Consistency Optimization](#consistency-optimization)
+    - [Decision Making](#decision-making)
+    - [Event Argument Extraction](#event-argument-extraction)
+    - [Inference Acceleration](#inference-acceleration)
+    - [Machine Translation](#machine-translation)
+    - [Negotiation Optimization](#negotiation-optimization)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Text Classification](#text-classification)
+  - [Section VIII.A: Meta Evaluation](#section-viiia-meta-evaluation)
+    - [Consistency Evaluation](#consistency-evaluation)
+    - [Self-Knowledge Evaluation](#self-knowledge-evaluation)
+    - [Uncertainty Evaluation](#uncertainty-evaluation)
+    - [Feedback Ability Evaluation](#feedback-ability-evaluation)
+  - [Theoretical Perspectives](#theoretical-perspectives)
+- [📆 To-Do List](#-to-do-list)
 
 </details>
 

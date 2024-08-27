@@ -1,4 +1,4 @@
-<div align="center"><h2>Internal Consistency and Self-Feedback in Large Language Models: A Survey</h2></div>
+<h2 align="center">Internal Consistency and Self-Feedback in Large Language Models: A Survey</h2>
 
 <p align="center">
     <!-- arxiv badges -->
@@ -13,52 +13,51 @@
     <a href="https://huggingface.co/papers/2407.14507">
         <img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Page-orange?style=flat"/>
     </a>
-    <!-- Yuque -->
-    <a href="https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg">
-        <img src="https://img.shields.io/badge/Paper--List-white?style=flat&logo=googlesheets">
-    </a>
 </p>
 
-<div align="center">
-    <p>
-        <a href="https://scholar.google.com/citations?user=d0E7YlcAAAAJ">Xun Liang</a><sup>1*</sup>, 
-        <a href="https://ki-seki.github.io/">Shichao Song</a><sup>1*</sup>, 
-        <a href="https://github.com/fan2goa1">Zifan Zheng</a><sup>2*</sup>, <br>
-        <a href="https://github.com/MarrytheToilet">Hanyu Wang</a><sup>1</sup>, 
-        <a href="https://github.com/Duguce">Qingchen Yu</a><sup>2</sup>, 
-        <a href="https://xkli-allen.github.io/">Xunkai Li</a><sup>3</sup>, 
-        <a href="https://ronghuali.github.io/index.html">Rong-Hua Li</a><sup>3</sup>, 
-        <a href="https://scholar.google.com/citations?user=GOKgLdQAAAAJ">Feiyu Xiong</a><sup>2</sup>, 
-        <a href="https://www.semanticscholar.org/author/Zhiyu-Li/2268429641">Zhiyu Li</a><sup>2†</sup>
-    </p>
-    <p>
-        <sup>1</sup><a href="https://en.ruc.edu.cn/">Renmin University of China</a> <br>
-        <sup>2</sup><a href="https://www.iaar.ac.cn/">Institute for Advanced Algorithms Research, Shanghai</a> <br>
-        <sup>3</sup><a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>
-    </p>
-</div>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=d0E7YlcAAAAJ">Xun Liang</a><sup>1*</sup>, 
+  <a href="https://ki-seki.github.io/">Shichao Song</a><sup>1*</sup>, 
+  <a href="https://github.com/fan2goa1">Zifan Zheng</a><sup>2*</sup>, 
+  <a href="https://github.com/MarrytheToilet">Hanyu Wang</a><sup>1</sup>, 
+  <a href="https://github.com/Duguce">Qingchen Yu</a><sup>2</sup>, 
+  <a href="https://xkli-allen.github.io/">Xunkai Li</a><sup>3</sup>, 
+  <a href="https://ronghuali.github.io/index.html">Rong-Hua Li</a><sup>3</sup>, 
+  <a href="https://scholar.google.com/citations?user=GOKgLdQAAAAJ">Feiyu Xiong</a><sup>2</sup>, 
+  <a href="https://www.semanticscholar.org/author/Zhiyu-Li/2268429641">Zhiyu Li</a><sup>2†</sup>
+</p>
 
-<div align="center"><small><sup>*</sup>Equal contribution.</small></div>
-<div align="center"><small><sup>†</sup>Corresponding author: Zhiyu Li (<a href="mailto:lizy@iaar.ac.cn">lizy@iaar.ac.cn</a>).</small></div>
+<p align="center">
+  <small>
+    <sup>1</sup><a href="https://en.ruc.edu.cn/">RUC</a>,
+    <sup>2</sup><a href="https://www.iaar.ac.cn/">IAAR</a>,
+    <sup>3</sup><a href="https://english.bit.edu.cn/">BIT</a>
+    <br>
+    <sup>*</sup>Equal contribution, 
+    <sup>†</sup>Corresponding author (lizy@iaar.ac.cn)
+  </small>
+</p>
+
+> [!IMPORTANT]
+> Consider giving our repository a 🌟, so you will receive the latest news about our paper (new related articles, new comments, etc.);  
+> If you want to cite our work, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
 
 ## 📰 News
 
-- **2024/08/24** We have created a more user-friendly paper list: [Paper List](#-paper-list)
-- **2024/07/21** Our paper is published on the arXiv platform: [arXiv: 2407.14507](https://arxiv.org/abs/2407.14507).
+- **2024/08/24** Updated paper list for better user experience. [Link](#-paper-list). Ongoing updates.
+- **2024/07/22** Our paper ranks third on Hugging Face Daily Papers! [Link](https://huggingface.co/papers?date=2024-07-22).
+- **2024/07/21** Our paper is now available on arXiv. [Link](https://arxiv.org/abs/2407.14507).
 
 ## 🎉 Introduction
 
-Welcome to the GitHub repository for our survey paper titled *"Internal Consistency and Self-Feedback in Large Language Models: A Survey."* This repository contains all the [resources](./resources/), [codes](./codes/), and [paper list](#-paper-list) associated with our survey. The survey's goal is to provide a unified perspective on the self-evaluation and self-updating mechanisms in LLMs, encapsulated within the frameworks of Internal Consistency and Self-Feedback. 
+Welcome to the GitHub repository for our survey paper titled *"Internal Consistency and Self-Feedback in Large Language Models: A Survey."* The survey's goal is to provide a unified perspective on the self-evaluation and self-updating mechanisms in LLMs, encapsulated within the frameworks of Internal Consistency and Self-Feedback. 
 
-![Article Framework](figures/article_framework.jpg)
+This repository includes three key resources:
+- [expt-consistency-types](./expt-consistency-types/): Code and results for measuring consistency at different levels.
+- [expt-gpt4o-responses](./expt-gpt4o-responses/): Results from five different GPT-4o responses to the same query.
+- [Paper List](./README.md#-paper-list): A comprehensive list of references related to our survey.
 
-## 📚 Paper List
-
-Here we list the most important references cited in our survey, as well as the papers we consider worth noting.
-
-We also provide an [online version](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) and an [Excel version](./papers/ICSFSurvey-Paper-List.xlsx) for your convenience.
-
-<details><summary>Click Me to Show Table of Contents</summary>
+<details><summary>Click Me to Show the Table of Contents</summary>
 
 - [📰 News](#-news)
 - [🎉 Introduction](#-introduction)
@@ -99,9 +98,13 @@ We also provide an [online version](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmq
     - [Uncertainty Evaluation](#uncertainty-evaluation)
     - [Feedback Ability Evaluation](#feedback-ability-evaluation)
   - [Theoretical Perspectives](#theoretical-perspectives)
-- [📆 To-Do List](#-to-do-list)
+- [📝 Citation](#-citation)
 
 </details>
+
+## 📚 Paper List
+
+Here we list the most important references cited in our survey, as well as the papers we consider worth noting. **This list will be updated regularly.**
 
 ### Related Survey Papers
 
@@ -1025,6 +1028,13 @@ Some theoretical research on Internal Consistency and Self-Feedback strategies.
   [[Paper](https://aclanthology.org/D19-1250/)]
   [[Code](https://github.com/facebookresearch/LAMA)]
 
-## 📆 To-Do List
+## 📝 Citation
 
-- [ ] Create the Page.
+```bibtex
+@article{liang2024internal,
+  title={Internal consistency and self-feedback in large language models: A survey},
+  author={Liang, Xun and Song, Shichao and Zheng, Zifan and Wang, Hanyu and Yu, Qingchen and Li, Xunkai and Li, Rong-Hua and Xiong, Feiyu and Li, Zhiyu},
+  journal={arXiv preprint arXiv:2407.14507},
+  year={2024}
+}
+```

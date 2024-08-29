@@ -6,7 +6,7 @@ In this folder, `README.md` summarizes the experimental results; `expt.ipynb` co
 
 ## Experiment Setup
 
-The given model $\mathcal{M}$ is [Llama3-8B-Instruct](https://ai.meta.com/blog/meta-llama-3/), and the given query $\boldsymbol{x}$ is: "How many full stops (periods) are there: `.!..!..!`". We posed this question to the model to observe the preferred answers in the $\{\text{response}, \text{decoding}, \text{latent}\}$ layers.
+The given model $\mathcal{M}$ is [Llama3-8B-Instruct](https://ai.meta.com/blog/meta-llama-3/), and the given query $\boldsymbol{x}$ is: "How many full stops (periods) are there: `.!..!..!`". We posed this question to the model to observe the preferred answers in the $`\{\text{response}, \text{decoding}, \text{latent}\}`$ layers.
 
 ## Results
 

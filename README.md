@@ -39,8 +39,8 @@
 </p>
 
 > [!IMPORTANT]
-> Consider giving our repository a 🌟, so you will receive the latest news about our paper (new related articles, new comments, etc.);  
-> If you want to cite our work, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
+> - Consider giving our repository a 🌟, so you will receive the latest news about our paper (new related articles, new comments, etc.);  
+> - If you want to cite our work, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
 
 ## 📰 News
 

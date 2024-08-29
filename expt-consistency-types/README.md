@@ -14,17 +14,17 @@ The given model $\mathcal{M}$ is [Llama3-8B-Instruct](https://ai.meta.com/blog/m
 
 ### Results of Latent Consistency
 
-| Setting                                                | Selected Token |
-| ------------------------------------------------------ | -------------- |
-| Fix $attn^0_0$; Zero out $attn^{i \neq 0}_0$           | 0              |
-| Fix $attn^{16}_0$; Zero out $attn^{i \neq 16}_0$       | 0              |
-| Fix $attn^0_{15}$; Zero out $attn^{i \neq 0}_{15}$     | 5              |
-| Fix $attn^{16}_{15}$; Zero out $attn^{i \neq 16}_{15}$ | 4              |
-| Fix $attn^0_{30}$; Zero out $attn^{i \neq 0}_{30}$     | 4              |
-| Fix $attn^{16}_{30}$; Zero out $attn^{i \neq 16}_{30}$ | 4              |
+| Setting                                                    | Selected Token |
+| ---------------------------------------------------------- | -------------- |
+| Fix $attn^0_0$; Zero out $attn^{i \neq 0}_0$               | 0              |
+| Fix $attn^{16}_0$; Zero out $attn^{i \neq 16}_0$           | 0              |
+| Fix $attn^0_{15}$; Zero out $attn^{i \neq 0}_{15}$         | 5              |
+| Fix $`attn^{16}_{15}`$; Zero out $`attn^{i \neq 16}_{15}`$ | 4              |
+| Fix $attn^0_{30}$; Zero out $attn^{i \neq 0}_{30}$         | 4              |
+| Fix $`attn^{16}_{30}`$; Zero out $`attn^{i \neq 16}_{30}`$ | 4              |
 
 > [!NOTE]
-> "Fix $attn^{16}_{15}$" refers to keeping the 16th attention head in the 15th layer unchanged, while "zero out $attn^{i \neq 16}_{15}$" means zeroing out all attention heads in the 15th layer except for the 16th one.
+> "Fix $`attn^{16}_{15}`$" refers to keeping the 16th attention head in the 15th layer unchanged, while "zero out $`attn^{i \neq 16}_{15}`$" means zeroing out all attention heads in the 15th layer except for the 16th one.
 
 ### Results of Decoding Consistency
 

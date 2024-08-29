@@ -23,6 +23,8 @@
   <a href="https://github.com/Duguce">Qingchen Yu</a><sup>2</sup>, 
   <a href="https://xkli-allen.github.io/">Xunkai Li</a><sup>3</sup>, 
   <a href="https://ronghuali.github.io/index.html">Rong-Hua Li</a><sup>3</sup>, 
+  Peng Cheng<sup>4</sup>, 
+  Zhonghao Wang<sup>4</sup>, 
   <a href="https://scholar.google.com/citations?user=GOKgLdQAAAAJ">Feiyu Xiong</a><sup>2</sup>, 
   <a href="https://www.semanticscholar.org/author/Zhiyu-Li/2268429641">Zhiyu Li</a><sup>2†</sup>
 </p>
@@ -31,7 +33,8 @@
   <small>
     <sup>1</sup><a href="https://en.ruc.edu.cn/">RUC</a>,
     <sup>2</sup><a href="https://www.iaar.ac.cn/">IAAR</a>,
-    <sup>3</sup><a href="https://english.bit.edu.cn/">BIT</a>
+    <sup>3</sup><a href="https://english.bit.edu.cn/">BIT</a>,
+    <sup>4</sup><a href="https://english.news.cn/">Xinhua</a>
     <br>
     <sup>*</sup>Equal contribution, 
     <sup>†</sup>Corresponding author (lizy@iaar.ac.cn)
@@ -1033,7 +1036,7 @@ Some theoretical research on Internal Consistency and Self-Feedback strategies.
 ```bibtex
 @article{liang2024internal,
   title={Internal consistency and self-feedback in large language models: A survey},
-  author={Liang, Xun and Song, Shichao and Zheng, Zifan and Wang, Hanyu and Yu, Qingchen and Li, Xunkai and Li, Rong-Hua and Xiong, Feiyu and Li, Zhiyu},
+  author={Liang, Xun and Song, Shichao and Zheng, Zifan and Wang, Hanyu and Yu, Qingchen and Li, Xunkai and Li, Rong-Hua and Cheng, Peng and Wang, Zhonghao and Xiong, Feiyu and Li, Zhiyu},
   journal={arXiv preprint arXiv:2407.14507},
   year={2024}
 }

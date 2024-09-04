@@ -42,7 +42,7 @@
 </p>
 
 > [!IMPORTANT]
-> - Consider giving our repository a 🌟, so you will receive the latest news about our paper (new related articles, new comments, etc.);  
+> - Consider giving our repository a 🌟, so you will receive the latest news (paper list updates, new comments, etc.);  
 > - If you want to cite our work, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
 
 ## 📰 News

@@ -55,6 +55,8 @@
 
 Welcome to the GitHub repository for our survey paper titled *"Internal Consistency and Self-Feedback in Large Language Models: A Survey."* The survey's goal is to provide a unified perspective on the self-evaluation and self-updating mechanisms in LLMs, encapsulated within the frameworks of Internal Consistency and Self-Feedback. 
 
+![](./assets/poster.png)
+
 This repository includes three key resources:
 - [expt-consistency-types](./expt-consistency-types/): Code and results for measuring consistency at different levels.
 - [expt-gpt4o-responses](./expt-gpt4o-responses/): Results from five different GPT-4o responses to the same query.

@@ -10,7 +10,7 @@ The given model $\mathcal{M}$ is [Llama3-8B-Instruct](https://ai.meta.com/blog/m
 
 ## Results
 
-![Consistency Types](./consistency-types.png)
+![Consistency Types](../assets/consistency-types.png)
 
 ### Results of Latent Consistency
 

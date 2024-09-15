@@ -1,6 +1,6 @@
 LLMs often generate different answers to the same question, even powerful models like GPT-4o are no exception. For example:
 
-![](./gpt4o-answers.png)
+![](../assets/gpt4o-answers.png)
 
 Below are the five corresponding responses obtained from GPT-4o when querying: `How many full stops (periods) are there: ".!..!..!".` The experiment were conducted on June 14, 2024.
 

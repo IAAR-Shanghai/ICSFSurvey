@@ -47,8 +47,9 @@
 
 ## 📰 News
 
+- **2024/09/18** [Paper v3.0](https://arxiv.org/abs/2407.14507) and a relevant [Twitter thread](https://x.com/Ki_Seki_here/status/1836020241538908529).
 - **2024/08/24** Updated paper list for better user experience. [Link](#-paper-list). Ongoing updates.
-- **2024/07/22** Our paper ranks third on Hugging Face Daily Papers! [Link](https://huggingface.co/papers?date=2024-07-22).
+- **2024/07/22** Our paper ranks first on Hugging Face Daily Papers! [Link](https://huggingface.co/papers?date=2024-07-22).
 - **2024/07/21** Our paper is now available on arXiv. [Link](https://arxiv.org/abs/2407.14507).
 
 ## 🎉 Introduction

@@ -122,16 +122,16 @@ Here we list the most important references cited in our survey, as well as the p
 
 These are some of the most relevant surveys related to our paper.
 
-- **A Survey on the Honesty of Large Language Models**
+- **A Survey on the Honesty of Large Language Models**  
   CUHK, arXiv, 2024
   [[Paper](https://arxiv.org/pdf/2409.18786)]
   [[Code](https://github.com/SihengLi99/LLM-Honesty-Survey)]
 
-- **Awesome LLM Reasoning**
+- **Awesome LLM Reasoning**  
   NTU, GitHub, 2024
   [[Code](https://github.com/atfortes/Awesome-LLM-Reasoning)]
 
-- **Awesome LLM Strawberry**
+- **Awesome LLM Strawberry**  
   NVIDIA, GitHub, 2024
   [[Code](https://github.com/hijkzzz/Awesome-LLM-Strawberry)]
 
@@ -349,7 +349,7 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
   ZJU, ACL, 2024
   [[Paper](https://arxiv.org/abs/2401.02009)]
 
-- **Training Language Models to Self-Correct via Reinforcement Learning**
+- **Training Language Models to Self-Correct via Reinforcement Learning**  
   Google, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2409.12917)]
 
@@ -429,7 +429,7 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
 
 #### Refining with Responses
 
-- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**  
   Purdue, EMNLP, 2024
   [[Paper](https://arxiv.org/abs/2405.20974)]
   [[Code](https://github.com/xu1868/SaySelf)]
@@ -588,7 +588,7 @@ Improving factual accuracy in open-ended generation and reducing hallucinations 
 
 #### Refining the Response Iteratively
 
-- **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**
+- **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**  
   SJTU, arXiv, 2024
   [[Paper](https://arxiv.org/pdf/2410.01215)]
   [[Code](https://github.com/YerbaPage/MGDebugger)]
@@ -703,7 +703,7 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   KAIST, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.04412)]
 
-- **Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**
+- **Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**  
   SJTU, PMLR, 2024
   [[Paper](https://proceedings.mlr.press/v235/pang24a.html)]
   [[Code](https://github.com/ShuoTang123/MATRIX)]
@@ -712,7 +712,7 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   Cohere, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.01660)]
 
-- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**  
   UCLA, PMLR, 2024
   [[Paper](https://proceedings.mlr.press/v235/chen24j.html)]
   [[Code](https://github.com/uclaml/SPIN)]
@@ -971,7 +971,7 @@ Some theoretical research on Internal Consistency and Self-Feedback strategies.
   Google, ICLR, 2024
   [[Paper](https://openreview.net/forum?id=IkmD3fKBPQ)]
 
-- **LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**
+- **LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**  
   Technion, arXiv, 2024
   [[Paper](https://arxiv.org/pdf/2410.02707)]
   [[Code](https://github.com/technion-cs-nlp/LLMsKnow)]

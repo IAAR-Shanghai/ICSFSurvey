@@ -330,6 +330,10 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
   ZJU, ACL, 2024
   [[Paper](https://arxiv.org/abs/2401.02009)]
 
+- **Training Language Models to Self-Correct via Reinforcement Learning**
+  Google, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2409.12917)]
+
 - **LLMs cannot find reasoning errors, but can correct them given the error location**  
   Cambridge, ACL, 2024
   [[Paper](https://arxiv.org/abs/2311.08516)]
@@ -405,6 +409,11 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
   [[Code](https://github.com/jaehunjung1/Maieutic-Prompting)]
 
 #### Refining with Responses
+
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**
+  Purdue, EMNLP, 2024
+  [[Paper](https://arxiv.org/abs/2405.20974)]
+  [[Code](https://github.com/xu1868/SaySelf)]
 
 - **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**  
   UMich, ACL, 2024
@@ -560,6 +569,11 @@ Improving factual accuracy in open-ended generation and reducing hallucinations 
 
 #### Refining the Response Iteratively
 
+- **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**
+  SJTU, arXiv, 2024
+  [[Paper](https://arxiv.org/pdf/2410.01215)]
+  [[Code](https://github.com/YerbaPage/MGDebugger)]
+
 - **Teaching Large Language Models to Self-Debug**  
   Google, ICLR, 2024
   [[Paper](https://openreview.net/forum?id=KuPixIqPiq)]
@@ -670,9 +684,19 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   KAIST, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.04412)]
 
+- **Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**
+  SJTU, PMLR, 2024
+  [[Paper](https://proceedings.mlr.press/v235/pang24a.html)]
+  [[Code](https://github.com/ShuoTang123/MATRIX)]
+
 - **Self-Improving Robust Preference Optimization**  
   Cohere, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.01660)]
+
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**
+  UCLA, PMLR, 2024
+  [[Paper](https://proceedings.mlr.press/v235/chen24j.html)]
+  [[Code](https://github.com/uclaml/SPIN)]
 
 - **Self-Play Preference Optimization for Language Model Alignment**  
   UCLA, arXiv, 2024
@@ -927,6 +951,11 @@ Some theoretical research on Internal Consistency and Self-Feedback strategies.
 - **Large Language Models Cannot Self-Correct Reasoning Yet**  
   Google, ICLR, 2024
   [[Paper](https://openreview.net/forum?id=IkmD3fKBPQ)]
+
+- **LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**
+  Technion, arXiv, 2024
+  [[Paper](https://arxiv.org/pdf/2410.02707)]
+  [[Code](https://github.com/technion-cs-nlp/LLMsKnow)]
 
 - **When Can Transformers Count to n?**  
   NYU, arXiv, 2024

@@ -1,6 +1,12 @@
 <h2 align="center">Internal Consistency and Self-Feedback in Large Language Models: A Survey</h2>
 
 <p align="center">
+  <i>
+    Explore concepts like Self-Correct, Self-Refine, Self-Improve, Self-Contradict, Self-Play, and Self-Knowledge, alongside o1-like reasoning elevation🍓 and hallucination alleviation💤.
+  </i>
+<p>
+
+<p align="center">
     <!-- arxiv badges -->
     <a href="https://arxiv.org/abs/2407.14507">
         <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">

@@ -116,6 +116,19 @@ Here we list the most important references cited in our survey, as well as the p
 
 These are some of the most relevant surveys related to our paper.
 
+- **A Survey on the Honesty of Large Language Models**
+  CUHK, arXiv, 2024
+  [[Paper](https://arxiv.org/pdf/2409.18786)]
+  [[Code](https://github.com/SihengLi99/LLM-Honesty-Survey)]
+
+- **Awesome LLM Reasoning**
+  NTU, GitHub, 2024
+  [[Code](https://github.com/atfortes/Awesome-LLM-Reasoning)]
+
+- **Awesome LLM Strawberry**
+  NVIDIA, GitHub, 2024
+  [[Code](https://github.com/hijkzzz/Awesome-LLM-Strawberry)]
+
 - **Extrinsic Hallucinations in LLMs**  
   OpenAI, Blog, 2024
   [[Paper](https://lilianweng.github.io/posts/2024-07-07-hallucination/#sampling-based-detection)]

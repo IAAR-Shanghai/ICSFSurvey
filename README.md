@@ -53,7 +53,7 @@
 
 ## 📰 News
 
-- **2024/10/26** We have created a relevant WeChat Group for discussing reasoning and hallucination in LLMs. Learn more 👉 
+- **2024/10/26** We have created a relevant [WeChat Group (微信群)](https://github.com/IAAR-Shanghai/ICSFSurvey/releases/tag/v3.2) for discussing reasoning and hallucination in LLMs.
 - **2024/09/18** [Paper v3.0](https://arxiv.org/abs/2407.14507) and a relevant [Twitter thread](https://x.com/Ki_Seki_here/status/1836020241538908529).
 - **2024/08/24** Updated paper list for better user experience. [Link](#-paper-list). Ongoing updates.
 - **2024/07/22** Our paper ranks first on Hugging Face Daily Papers! [Link](https://huggingface.co/papers?date=2024-07-22).

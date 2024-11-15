@@ -105,11 +105,13 @@ This repository includes three key resources:
     - [Negotiation Optimization](#negotiation-optimization)
     - [Retrieval Augmented Generation](#retrieval-augmented-generation)
     - [Text Classification](#text-classification)
+    - [Self-Repair](#self-repair)
   - [Section VIII.A: Meta Evaluation](#section-viiia-meta-evaluation)
     - [Consistency Evaluation](#consistency-evaluation)
     - [Self-Knowledge Evaluation](#self-knowledge-evaluation)
     - [Uncertainty Evaluation](#uncertainty-evaluation)
     - [Feedback Ability Evaluation](#feedback-ability-evaluation)
+    - [Reflection Ability Evaluation](#reflection-ability-evaluation)
   - [Theoretical Perspectives](#theoretical-perspectives)
 - [📝 Citation](#-citation)
 
@@ -211,6 +213,11 @@ For various forms of expressions from an LLM, we can obtain various forms of con
 
 #### Hallucination Detection
 
+- **Prompt-Guided Internal States for Hallucination Detection of Large Language Models**  
+  Nankai, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.04847)]
+  [[Code](https://github.com/fujie-math/PRISM)]
+
 - **Detecting hallucinations in large language models using semantic entropy**  
   Oxford, Nature, 2024
   [[Paper](https://www.nature.com/articles/s41586-024-07421-0)]
@@ -242,6 +249,11 @@ For various forms of expressions from an LLM, we can obtain various forms of con
   [[Code](https://github.com/potsawee/selfcheckgpt)]
 
 #### Uncertainty Estimation
+
+- **Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space**  
+  Cognizant, NeuIPS, 2024
+  [[Paper](https://arxiv.org/abs/2405.13845)]
+  [[Code](https://github.com/cognizant-ai-labs/semantic-density-paper)]
 
 - **Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models**  
   UIUC, TMLR, 2024
@@ -311,6 +323,14 @@ For various forms of expressions from an LLM, we can obtain various forms of con
 Enhancing reasoning ability by improving LLM performance on QA tasks through Self-Feedback strategies.
 
 #### Reasoning Topologically
+
+- **Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**  
+  Virginia, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2408.17017)]
+
+- **Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**  
+  CUHK, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2410.18415)]
 
 - **DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines**  
   Stanford, ICLR, 2024
@@ -695,6 +715,16 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
 
 #### Preference Learning
 
+- **Language Imbalance Driven Rewarding for Multilingual Self-improving**  
+  UCAS, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2410.08964)]
+  [[Code](https://github.com/ZNLP/Language-Imbalance-Driven-Rewarding)]
+
+- **Aligning Large Language Models via Self-Steering Optimization**  
+  ISCAS, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2410.17131)]
+  [[Code](https://github.com/icip-cas/SSO)]
+
 - **Aligning Large Language Models from Self-Reference AI Feedback with one General Principle**  
   FDU, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.11190)]
@@ -829,6 +859,10 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
 
 #### Data Synthesis
 
+- **Self-Taught Evaluators**  
+   Meta, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2408.02666)]
+
 - **Self-Instruct: Aligning Language Models with Self-Generated Instructions**  
   Washington, ACL, 2023
   [[Paper](https://aclanthology.org/2023.acl-long.754/)]
@@ -890,11 +924,21 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   [[Paper](https://aclanthology.org/2020.emnlp-main.724/)]
   [[Code](https://github.com/yumeng5/LOTClass)]
 
+#### Self-Repair
+
+- **Explorations of Self-Repair in Language Models**  
+  UTexas, PMLR, 2024
+  [[Paper](https://proceedings.mlr.press/v235/rushing24a.html)]
+
 ### Section VIII.A: Meta Evaluation
 
 Some common evaluation benchmarks.
 
 #### Consistency Evaluation
+
+- **Evaluating Consistencies in LLM responses through a Semantic Clustering of Question Answering**  
+  Dongguk, IJCAI, 2024
+  [[Paper](https://arxiv.org/abs/2410.15440)]
 
 - **Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**  
   PKU, arXiv, 2024
@@ -955,6 +999,13 @@ Some common evaluation benchmarks.
   THU, ACL, 2024
   [[Paper](https://arxiv.org/abs/2402.14809)]
   [[Code](https://github.com/CriticBench/CriticBench)]
+
+#### Reflection Ability Evaluation
+
+- **Reflection-Bench: probing AI intelligence with reflection**  
+  SHLab, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2406.03194)]
+  [[Code](https://github.com/YabYum/ReflectionBench)]
 
 ### Theoretical Perspectives
 

@@ -213,6 +213,10 @@ For various forms of expressions from an LLM, we can obtain various forms of con
 
 #### Hallucination Detection
 
+- **Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**  
+  Salesforce, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.15993)]
+
 - **Prompt-Guided Internal States for Hallucination Detection of Large Language Models**  
   Nankai, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2411.04847)]
@@ -249,6 +253,10 @@ For various forms of expressions from an LLM, we can obtain various forms of con
   [[Code](https://github.com/potsawee/selfcheckgpt)]
 
 #### Uncertainty Estimation
+
+- **Enhancing Trust in Large Language Models with Uncertainty-Aware Fine-Tuning**  
+  Intel, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2412.02904)]
 
 - **Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space**  
   Cognizant, NeuIPS, 2024
@@ -323,6 +331,16 @@ For various forms of expressions from an LLM, we can obtain various forms of con
 Enhancing reasoning ability by improving LLM performance on QA tasks through Self-Feedback strategies.
 
 #### Reasoning Topologically
+
+- **SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation**  
+  BIT, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.11053)]
+  [[Code](https://github.com/DIRECT-BIT/SRA-MCTS)]
+
+- **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**  
+  Alibaba, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.14405)]
+  [[Code](https://github.com/AIDC-AI/Marco-o1)]
 
 - **Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**  
   Virginia, arXiv, 2024
@@ -450,6 +468,11 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
 
 #### Refining with Responses
 
+- **Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**  
+  Fudan, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.16579)]
+  [[Code](https://github.com/WooooDyy/MathCritique)]
+
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**  
   Purdue, EMNLP, 2024
   [[Paper](https://arxiv.org/abs/2405.20974)]
@@ -564,6 +587,10 @@ Enhancing reasoning ability by improving LLM performance on QA tasks through Sel
   [[Paper](https://aclanthology.org/2023.findings-emnlp.508/)]
   [[Code](https://github.com/Waste-Wood/FORD)]
 
+- **Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs**  
+  SYSU, arXiv, 2023
+  [[Paper](https://arxiv.org/abs/2308.11914)]
+
 ### Section VI: Hallucination Alleviation
 
 Improving factual accuracy in open-ended generation and reducing hallucinations through Self-Feedback strategies.
@@ -608,6 +635,10 @@ Improving factual accuracy in open-ended generation and reducing hallucinations 
   [[Code](https://github.com/anthonywchen/RARR)]
 
 #### Refining the Response Iteratively
+
+- **An Evolutionary Large Language Model for Hallucination Mitigation**  
+  Salah Boubnider University, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2412.02790)]
 
 - **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**  
   SJTU, arXiv, 2024
@@ -682,6 +713,10 @@ Improving factual accuracy in open-ended generation and reducing hallucinations 
 
 #### Decoding Truthfully
 
+- **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**  
+  THU, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2411.19943)]
+
 - **Diver: Large Language Model Decoding with Span-Level Mutual Information Verification**  
   IA, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2406.02120)]
@@ -724,6 +759,10 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   ISCAS, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2410.17131)]
   [[Code](https://github.com/icip-cas/SSO)]
+
+- **Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**  
+  Meta FAIR, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2407.19594)]
 
 - **Aligning Large Language Models from Self-Reference AI Feedback with one General Principle**  
   FDU, arXiv, 2024
@@ -1010,6 +1049,10 @@ Some common evaluation benchmarks.
 ### Theoretical Perspectives
 
 Some theoretical research on Internal Consistency and Self-Feedback strategies.
+
+- **Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning**  
+  Tohoku, arXiv, 2024
+  [[Paper](https://arxiv.org/abs/2412.01113)]
 
 - **AI models collapse when trained on recursively generated data**  
   Oxford, Nature, 2024

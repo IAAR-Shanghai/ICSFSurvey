@@ -942,6 +942,9 @@ In addition to tasks aimed at improving consistency (enhancing reasoning and all
   HIT, ACL, 2024
   [[Paper](https://aclanthology.org/2024.acl-long.333/)]
   [[Code](https://github.com/YutongWang1216/ReflectionLLMMT)]
+- **Translate-and-Revise: Boosting Large Language Models for Constrained Translation**  
+  NEU, CCL, 2024
+  [[Paper](https://aclanthology.org/2024.ccl-1.82/)]
 
 #### Negotiation Optimization
 

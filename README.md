@@ -213,6 +213,10 @@ For various forms of expressions from an LLM, we can obtain various forms of con
 
 #### Hallucination Detection
 
+- **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness**  
+  UMD, arXiv, 2026
+  [[Paper](https://arxiv.org/abs/2601.14210)]
+
 - **Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**  
   Salesforce, arXiv, 2024
   [[Paper](https://arxiv.org/abs/2411.15993)]
